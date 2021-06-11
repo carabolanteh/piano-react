@@ -77,8 +77,8 @@ function App() {
   return (
     <div >
       <div className="titulo">
-        <h1>Piano con React</h1>
-        <h2>Hecho por Male</h2>
+        <h1>Piano con React // Probando cambios</h1>
+        <h2>Hecho por Male. Desarrollado en clase</h2>
         <h3 className='msj'>{sonando}</h3>
         <button onClick={handleClickCount}>Has dado {click} click</button>
       </div>
